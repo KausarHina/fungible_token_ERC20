@@ -9,8 +9,13 @@ The **fungible_token_ERC20** creates fungible token that is ERC-20 compliant and
 
 This project leverages solidity with the following packages:
 
-* [solidity](https://soliditylang.org/) - For creating the ethereum smart contract
+* [Solidity](https://soliditylang.org/) - For creating the ethereum smart contract
 * [Remix - Ethereum IDE](https://remix.ethereum.org) - For compiling and deploying the ethereum smart contract 
+* [Metamask](https://metamask.io/) - For crypto wallet 
+* [Ganache](https://trufflesuite.com/docs/ganache/) - Ethereum simulator that makes developing Ethereum applications faster, easier, and safe 
+
+
+
 
 
 ---
